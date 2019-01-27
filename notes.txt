@@ -1,0 +1,5 @@
+Start MySQL on fedora:
+systemctl start mysqld.service 
+
+Start MySQL on ubuntu:
+systemctl start mysql
